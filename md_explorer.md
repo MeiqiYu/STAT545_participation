@@ -2,10 +2,14 @@
 output:
   html_document: default
   pdf_document: default
+  word_document: default
 ---
-#markdown explore
+# markdown explore
+
 *meiqiyu*
+
 **STAT545A**
+
 [link]https://commonmark.org/help/
 
 > This is a link of markdown tutorial
