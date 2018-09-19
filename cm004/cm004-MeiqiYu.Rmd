@@ -1,0 +1,21 @@
+---
+title: "cm004"
+output: html_document
+---
+```{r}
+library(gapminder)
+```
+
+```{r}
+str(gapminder)
+```
+
+
+```{r}
+head(gapminder)
+```
+
+
+```{r}
+summary(gapminder)
+```
