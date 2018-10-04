@@ -1,5 +1,5 @@
 ---
-title: "cm008 Exercises"
+title: "cm010 Exercises"
 output: github_document
 ---
 
