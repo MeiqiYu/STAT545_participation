@@ -1,4 +1,4 @@
-cm008 Exercises
+cm010 Exercises
 ================
 
 ## Install `nycflights13` package
