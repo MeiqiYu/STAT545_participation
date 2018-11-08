@@ -1,1 +1,1 @@
-pow <- function(x,p) x^p
+pow <- function(x, p) x^p

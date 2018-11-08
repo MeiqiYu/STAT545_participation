@@ -3,10 +3,14 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author@R: person("MeiqiYu",email="maggieyumq@outlook.com")
-Description: This is a package that calculates powers of numbers. 
-This package is being developed for the STAT547M course at the University of British Columbia.
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This is a toy package that calculates powers of numbers. This package is being developed for the STAT547M course at the University of British Columbia.
 License: MIT + file LICENSE 
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.0
-
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
